@@ -16,4 +16,5 @@ Prim é um algoritmo guloso que busca a árvore geradora mínima.
 
 # Autores
 
-[<img src="https://avatars3.githubusercontent.com/u/43919313?s=460&v=4" width="100px;"/><br /><sub><b>Luigi Miranda</b></sub>](https://github.com/LuigiKerb)<br />[<img src="https://avatars0.githubusercontent.com/u/43689468?s=400&v=4" width="100px;"/><br/><sub><b>Tiemy Shibuya</b></sub>](https://github.com/TiemyShibuya)<br />
+[<img src="https://avatars3.githubusercontent.com/u/43919313?s=460&v=4" width="100px;"/><br /><sub><b>Luigi Miranda</b></sub>](https://github.com/LuigiKerb)<br /> |[<img src="https://avatars0.githubusercontent.com/u/43689468?s=400&v=4" width="100px;"/><br/><sub><b>Tiemy Shibuya</b></sub>](https://github.com/TiemyShibuya)<br />
+ --------- | ------
